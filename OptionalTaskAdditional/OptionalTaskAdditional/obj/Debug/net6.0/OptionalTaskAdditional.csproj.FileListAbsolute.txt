@@ -1,0 +1,14 @@
+C:\Users\Kamil\Desktop\OptionalTaskAdditional\OptionalTaskAdditional\bin\Debug\net6.0\OptionalTaskAdditional.exe
+C:\Users\Kamil\Desktop\OptionalTaskAdditional\OptionalTaskAdditional\bin\Debug\net6.0\OptionalTaskAdditional.deps.json
+C:\Users\Kamil\Desktop\OptionalTaskAdditional\OptionalTaskAdditional\bin\Debug\net6.0\OptionalTaskAdditional.runtimeconfig.json
+C:\Users\Kamil\Desktop\OptionalTaskAdditional\OptionalTaskAdditional\bin\Debug\net6.0\OptionalTaskAdditional.dll
+C:\Users\Kamil\Desktop\OptionalTaskAdditional\OptionalTaskAdditional\bin\Debug\net6.0\OptionalTaskAdditional.pdb
+C:\Users\Kamil\Desktop\OptionalTaskAdditional\OptionalTaskAdditional\obj\Debug\net6.0\OptionalTaskAdditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\OptionalTaskAdditional\OptionalTaskAdditional\obj\Debug\net6.0\OptionalTaskAdditional.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\OptionalTaskAdditional\OptionalTaskAdditional\obj\Debug\net6.0\OptionalTaskAdditional.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\OptionalTaskAdditional\OptionalTaskAdditional\obj\Debug\net6.0\OptionalTaskAdditional.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\OptionalTaskAdditional\OptionalTaskAdditional\obj\Debug\net6.0\OptionalTaskAdditional.dll
+C:\Users\Kamil\Desktop\OptionalTaskAdditional\OptionalTaskAdditional\obj\Debug\net6.0\refint\OptionalTaskAdditional.dll
+C:\Users\Kamil\Desktop\OptionalTaskAdditional\OptionalTaskAdditional\obj\Debug\net6.0\OptionalTaskAdditional.pdb
+C:\Users\Kamil\Desktop\OptionalTaskAdditional\OptionalTaskAdditional\obj\Debug\net6.0\OptionalTaskAdditional.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\OptionalTaskAdditional\OptionalTaskAdditional\obj\Debug\net6.0\ref\OptionalTaskAdditional.dll

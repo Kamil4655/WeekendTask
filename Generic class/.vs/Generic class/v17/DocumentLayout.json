@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kamil\\Desktop\\Generic class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6B90B9-8094-4A37-9443-4EA87324E1C0}|Generic class\\Generic class.csproj|c:\\users\\kamil\\desktop\\generic class\\generic class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6B90B9-8094-4A37-9443-4EA87324E1C0}|Generic class\\Generic class.csproj|solutionrelative:generic class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6B90B9-8094-4A37-9443-4EA87324E1C0}|Generic class\\Generic class.csproj|c:\\users\\kamil\\desktop\\generic class\\generic class\\models\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6B90B9-8094-4A37-9443-4EA87324E1C0}|Generic class\\Generic class.csproj|solutionrelative:generic class\\models\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6B90B9-8094-4A37-9443-4EA87324E1C0}|Generic class\\Generic class.csproj|c:\\users\\kamil\\desktop\\generic class\\generic class\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6B90B9-8094-4A37-9443-4EA87324E1C0}|Generic class\\Generic class.csproj|solutionrelative:generic class\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6B90B9-8094-4A37-9443-4EA87324E1C0}|Generic class\\Generic class.csproj|c:\\users\\kamil\\desktop\\generic class\\generic class\\models\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6B90B9-8094-4A37-9443-4EA87324E1C0}|Generic class\\Generic class.csproj|solutionrelative:generic class\\models\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6B90B9-8094-4A37-9443-4EA87324E1C0}|Generic class\\Generic class.csproj|c:\\users\\kamil\\desktop\\generic class\\generic class\\models\\zoocage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6B90B9-8094-4A37-9443-4EA87324E1C0}|Generic class\\Generic class.csproj|solutionrelative:generic class\\models\\zoocage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6B90B9-8094-4A37-9443-4EA87324E1C0}|Generic class\\Generic class.csproj|c:\\users\\kamil\\desktop\\generic class\\generic class\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6B90B9-8094-4A37-9443-4EA87324E1C0}|Generic class\\Generic class.csproj|solutionrelative:generic class\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6B90B9-8094-4A37-9443-4EA87324E1C0}|Generic class\\Generic class.csproj|c:\\users\\kamil\\desktop\\generic class\\generic class\\models\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6B90B9-8094-4A37-9443-4EA87324E1C0}|Generic class\\Generic class.csproj|solutionrelative:generic class\\models\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6B90B9-8094-4A37-9443-4EA87324E1C0}|Generic class\\Generic class.csproj|c:\\users\\kamil\\desktop\\generic class\\generic class\\models\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6B90B9-8094-4A37-9443-4EA87324E1C0}|Generic class\\Generic class.csproj|solutionrelative:generic class\\models\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Generic class\\Generic class\\Program.cs",
+              "RelativeDocumentMoniker": "Generic class\\Program.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Generic class\\Generic class\\Program.cs",
+              "RelativeToolTip": "Generic class\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:17:40.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ZooCage.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Generic class\\Generic class\\Models\\ZooCage.cs",
+              "RelativeDocumentMoniker": "Generic class\\Models\\ZooCage.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Generic class\\Generic class\\Models\\ZooCage.cs",
+              "RelativeToolTip": "Generic class\\Models\\ZooCage.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T17:21:50.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Generic class\\Generic class\\Models\\Meat.cs",
+              "RelativeDocumentMoniker": "Generic class\\Models\\Meat.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Generic class\\Generic class\\Models\\Meat.cs",
+              "RelativeToolTip": "Generic class\\Models\\Meat.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T17:21:17.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Grass.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Generic class\\Generic class\\Models\\Grass.cs",
+              "RelativeDocumentMoniker": "Generic class\\Models\\Grass.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Generic class\\Generic class\\Models\\Grass.cs",
+              "RelativeToolTip": "Generic class\\Models\\Grass.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T17:21:09.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Generic class\\Generic class\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "Generic class\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Generic class\\Generic class\\Models\\Food.cs",
+              "RelativeToolTip": "Generic class\\Models\\Food.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T17:20:59.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Generic class\\Generic class\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Generic class\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Generic class\\Generic class\\Models\\Animal.cs",
+              "RelativeToolTip": "Generic class\\Models\\Animal.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T17:20:38.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Wolf.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Generic class\\Generic class\\Models\\Wolf.cs",
+              "RelativeDocumentMoniker": "Generic class\\Models\\Wolf.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Generic class\\Generic class\\Models\\Wolf.cs",
+              "RelativeToolTip": "Generic class\\Models\\Wolf.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T17:21:26.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Elephant.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Generic class\\Generic class\\Models\\Elephant.cs",
+              "RelativeDocumentMoniker": "Generic class\\Models\\Elephant.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Generic class\\Generic class\\Models\\Elephant.cs",
+              "RelativeToolTip": "Generic class\\Models\\Elephant.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T17:20:48.946Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
